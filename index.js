@@ -5,3 +5,4 @@ function updateObjectWithKeyAndValue(object, key, value) {
   object[prop2]=2
   //Object.assign({}, object, {key:value})
 }
+
